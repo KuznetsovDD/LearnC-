@@ -1,0 +1,15 @@
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\bin\Debug\net6.0\Exsamples001.exe
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\bin\Debug\net6.0\Exsamples001.deps.json
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\bin\Debug\net6.0\Exsamples001.runtimeconfig.json
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\bin\Debug\net6.0\Exsamples001.dll
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\bin\Debug\net6.0\Exsamples001.pdb
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\obj\Debug\net6.0\Exsamples001.csproj.AssemblyReference.cache
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\obj\Debug\net6.0\Exsamples001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\obj\Debug\net6.0\Exsamples001.AssemblyInfoInputs.cache
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\obj\Debug\net6.0\Exsamples001.AssemblyInfo.cs
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\obj\Debug\net6.0\Exsamples001.csproj.CoreCompileInputs.cache
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\obj\Debug\net6.0\Exsamples001.dll
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\obj\Debug\net6.0\refint\Exsamples001.dll
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\obj\Debug\net6.0\Exsamples001.pdb
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\obj\Debug\net6.0\Exsamples001.genruntimeconfig.cache
+C:\Users\Atlant\Desktop\С#\Exsamples\Exsamples001\obj\Debug\net6.0\ref\Exsamples001.dll
